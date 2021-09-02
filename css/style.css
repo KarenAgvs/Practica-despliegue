@@ -3,4 +3,14 @@
     height: 474px;
 
 }
-
+.ContDatos{
+    background-color: rgb(68, 68, 255);
+    height: 350px;
+}
+.Usuario{
+    align-content: center;
+    width: 200px;
+    margin-left:55px ;
+    margin-bottom: -100px;
+    
+}
